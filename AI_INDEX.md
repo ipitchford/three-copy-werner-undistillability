@@ -43,3 +43,5 @@ inherited methods and the scoped result. No exhaustive priority claim is made.
 source hashes, original-versus-supplied components and runtime assumptions.
 The public receipt is a separate release asset so it can bind the final ZIP
 without self-reference. Public availability never upgrades scientific assurance.
+
+- [Contribution and limitation record](RESEARCH_GATES.json): retrospective intake search, exact source locators, closed extensions and remaining scope.

@@ -1,0 +1,194 @@
+{
+  "schemaVersion": "1.0",
+  "contributionMap": [
+    {
+      "claim": "Unrestricted complex rank-two three-copy qutrit endpoint",
+      "unit": "statement",
+      "paperLocation": "Theorem 1 and Proposition 6",
+      "searches": [
+        {
+          "date": "2026-10-04",
+          "query": "Werner three-copy qutrit undistillability; exact submitted title; citation tracing through primary sources",
+          "corpus": "Web search, arXiv versioned full-text HTML and publisher full text; see CITATION_AUDIT.md"
+        }
+      ],
+      "closestPriorWork": "Wu–Zou 2608.02647v1, Corollaries 6.1–6.2 and Section 7, treats restricted sectors; cited two-copy papers have a different copy quantifier.",
+      "verdict": "new-in-bounded-search"
+    },
+    {
+      "claim": "Finite PSD dual identity over exact invariant rank-two coordinates",
+      "unit": "proof",
+      "paperLocation": "Lemmas 2–5 and Proposition 6",
+      "searches": [
+        {
+          "date": "2026-10-04",
+          "query": "Werner three-copy qutrit undistillability; exact submitted title; citation tracing through primary sources",
+          "corpus": "Web search, arXiv versioned full-text HTML and publisher full text; see CITATION_AUDIT.md"
+        }
+      ],
+      "closestPriorWork": "Partial-trace and SDP methods are inherited; the final 716-multiplier instance is supplied here.",
+      "verdict": "partially-known-cited"
+    },
+    {
+      "claim": "Partial-trace reductions and semidefinite positivity certificates",
+      "unit": "method",
+      "paperLocation": "Introduction and Sections 1–5",
+      "searches": [
+        {
+          "date": "2026-10-04",
+          "query": "Werner three-copy qutrit undistillability; exact submitted title; citation tracing through primary sources",
+          "corpus": "Web search, arXiv versioned full-text HTML and publisher full text; see CITATION_AUDIT.md"
+        }
+      ],
+      "closestPriorWork": "Costa Rico Theorem 1/Eq.17; Vianna–Doherty abstract gives robust-SDP antecedent. No novelty claimed for these methods.",
+      "verdict": "known-cited"
+    },
+    {
+      "claim": "Three-copy physical qutrit threshold alpha < -1/2",
+      "unit": "statement",
+      "paperLocation": "Corollary 7",
+      "searches": [
+        {
+          "date": "2026-10-04",
+          "query": "Werner three-copy qutrit undistillability; exact submitted title; citation tracing through primary sources",
+          "corpus": "Web search, arXiv versioned full-text HTML and publisher full text; see CITATION_AUDIT.md"
+        }
+      ],
+      "closestPriorWork": "Classical one-copy witness and convex/product-contraction reasoning combined with this endpoint; supplied referee parameter note.",
+      "verdict": "partially-known-cited"
+    }
+  ],
+  "sourcesReadInFull": [
+    {
+      "citation": "Costa Rico (2025)",
+      "usedFor": "Inherited partial-trace criterion",
+      "readWhat": "Theorem 1, Eq.17 and proof",
+      "date": "2026-10-04",
+      "evidenceLocator": "https://doi.org/10.1007/s11005-025-01935-y; Theorem 1, Eq.17 and proof; CITATION_AUDIT.md"
+    },
+    {
+      "citation": "Fu–Gao–Park (2026)",
+      "usedFor": "Two-copy comparison",
+      "readWhat": "Theorem 1.1 and hypotheses",
+      "date": "2026-10-04",
+      "evidenceLocator": "https://arxiv.org/html/2607.21367v2; Theorem 1.1 and hypotheses; CITATION_AUDIT.md"
+    },
+    {
+      "citation": "Fraser–Huber–Pozsgay–Vona (2026)",
+      "usedFor": "Concurrent two-copy comparison",
+      "readWhat": "Abstract, conventions and main rank-constrained inequality",
+      "date": "2026-10-04",
+      "evidenceLocator": "https://arxiv.org/html/2607.24309v1; Abstract, conventions and main rank-constrained inequality; CITATION_AUDIT.md"
+    },
+    {
+      "citation": "Bharti–Gajjala–Haug (2026)",
+      "usedFor": "Limits of marginal lifting",
+      "readWhat": "Sections 3.1–3.3 and Theorem 3.3",
+      "date": "2026-10-04",
+      "evidenceLocator": "https://arxiv.org/html/2607.24479v1; Sections 3.1–3.3 and Theorem 3.3; CITATION_AUDIT.md"
+    },
+    {
+      "citation": "Wu–Zou (2026)",
+      "usedFor": "Closest restricted three-copy comparison",
+      "readWhat": "Corollaries 6.1–6.2 and Section 7",
+      "date": "2026-10-04",
+      "evidenceLocator": "https://arxiv.org/html/2608.02647v1; Corollaries 6.1–6.2 and Section 7; CITATION_AUDIT.md"
+    }
+  ],
+  "limitationTriage": [
+    {
+      "limitation": "Physical parameter interval beyond the endpoint",
+      "closingQuestion": "Can a known theorem or cheap exact check resolve this boundary?",
+      "triedOrSearched": "Derived Corollary 7 with interpolation and negative witness.",
+      "estimatedCost": "Within this scoped revision",
+      "cheap": true,
+      "decision": "CLOSED",
+      "reasonOpen": "",
+      "whyNotClosedNow": ""
+    },
+    {
+      "limitation": "Exact equality and rank restriction examples",
+      "closingQuestion": "Can a known theorem or cheap exact check resolve this boundary?",
+      "triedOrSearched": "Computed tensor-product examples in Example 8 and controls.",
+      "estimatedCost": "Within this scoped revision",
+      "cheap": true,
+      "decision": "CLOSED",
+      "reasonOpen": "",
+      "whyNotClosedNow": ""
+    },
+    {
+      "limitation": "Historical correction norm/minor not in portable archive",
+      "closingQuestion": "Can a known theorem or cheap exact check resolve this boundary?",
+      "triedOrSearched": "Moved optional construction narrative outside the central proof and portable assurance.",
+      "estimatedCost": "Within this scoped revision",
+      "cheap": true,
+      "decision": "CLOSED",
+      "reasonOpen": "",
+      "whyNotClosedNow": ""
+    },
+    {
+      "limitation": "Arbitrarily many copies and dimensions above three",
+      "closingQuestion": "Can a known theorem or cheap exact check resolve this boundary?",
+      "triedOrSearched": "Compared modern two-copy and restricted-sector results; none closes these quantifiers.",
+      "estimatedCost": "Uncertain; a separate research or external-assessment project",
+      "cheap": false,
+      "decision": "OPEN",
+      "reasonOpen": "A new theorem and certificate would be required; this publication concerns the supplied three-copy qutrit endpoint.",
+      "whyNotClosedNow": "A new theorem and certificate would be required; this publication concerns the supplied three-copy qutrit endpoint."
+    },
+    {
+      "limitation": "Unaffiliated reproduction and authenticated specialist/editorial review",
+      "closingQuestion": "Can a known theorem or cheap exact check resolve this boundary?",
+      "triedOrSearched": "Audited supplied report provenance and exact scope; retained its author-coordinate dependence.",
+      "estimatedCost": "Uncertain; a separate research or external-assessment project",
+      "cheap": false,
+      "decision": "OPEN",
+      "reasonOpen": "Credentials and institutional independence cannot be generated by producer checks; no external acceptance is established.",
+      "whyNotClosedNow": "Credentials and institutional independence cannot be generated by producer checks; no external acceptance is established."
+    },
+    {
+      "limitation": "End-to-end proof-assistant formalisation",
+      "closingQuestion": "Can a known theorem or cheap exact check resolve this boundary?",
+      "triedOrSearched": "Inspected exact arithmetic and written representation/encoding bridges.",
+      "estimatedCost": "Uncertain; a separate research or external-assessment project",
+      "cheap": false,
+      "decision": "OPEN",
+      "reasonOpen": "A dedicated formalisation effort is outside the scoped revision and is not a cheap check.",
+      "whyNotClosedNow": "A dedicated formalisation effort is outside the scoped revision and is not a cheap check."
+    },
+    {
+      "limitation": "Exhaustive novelty and priority",
+      "closingQuestion": "Can a known theorem or cheap exact check resolve this boundary?",
+      "triedOrSearched": "Dated primary-source comparison and bounded search retained.",
+      "estimatedCost": "Uncertain; a separate research or external-assessment project",
+      "cheap": false,
+      "decision": "OPEN",
+      "reasonOpen": "A bounded search cannot certify exhaustive priority.",
+      "whyNotClosedNow": "A bounded search cannot certify exhaustive priority."
+    },
+    {
+      "limitation": "Fresh portable and hosted environment replay",
+      "closingQuestion": "Can a known theorem or cheap exact check resolve this boundary?",
+      "triedOrSearched": "Pinned dependencies, two Python modes, complete certificate and semantic corruption controls.",
+      "estimatedCost": "Within this scoped revision",
+      "cheap": true,
+      "decision": "CLOSED",
+      "reasonOpen": "",
+      "whyNotClosedNow": ""
+    }
+  ],
+  "extensionScout": {
+    "by": "Evidence Press Research Agent (Codex), publication-intake assessment",
+    "date": "2026-10-04",
+    "proposals": [
+      "Derive full physical parameter threshold from endpoint.",
+      "Add exact rank-two equality and rank-three negative examples.",
+      "Replace optional historical correction claims by direct final-certificate verification."
+    ],
+    "actions": [
+      "Corollary 7 proves interpolation, lower-copy contractions and negative witness.",
+      "Example 8 and semantic controls check 0, 0 and -3/8 exactly.",
+      "Historical estimate separated; final PSD and identity remain load-bearing."
+    ]
+  }
+}
