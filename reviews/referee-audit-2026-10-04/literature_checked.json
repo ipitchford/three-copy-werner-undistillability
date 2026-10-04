@@ -1,0 +1,82 @@
+{
+  "review_date": "2026-10-04",
+  "search_tools": [
+    "live web search",
+    "arXiv primary records and HTML",
+    "Springer full text",
+    "official REF guidance"
+  ],
+  "queries": [
+    "Werner three-copy 2026 undistillability",
+    "Three-copy undistillability of the boundary qutrit Werner state",
+    "New partial trace inequalities and distillability of Werner states",
+    "REF 2029 panel criteria 2026"
+  ],
+  "limitations": "Bounded search, not exhaustive priority review; some broad searches returned poor matches. Recent preprint claims were checked for scope, not independently reproved.",
+  "sources": [
+    {
+      "authors": "Costa Rico, P.",
+      "year": 2025,
+      "title": "New partial trace inequalities and distillability of Werner states",
+      "doi": "10.1007/s11005-025-01935-y",
+      "url": "https://link.springer.com/article/10.1007/s11005-025-01935-y",
+      "inspection": "Full-text relevant theorem/positioning sections"
+    },
+    {
+      "authors": "Bharti, K., Gajjala, R., & Haug, T.",
+      "year": 2026,
+      "title": "Two-copy nondistillability of Werner states: sharp partial-trace inequalities and finite-copy extensions",
+      "arxiv": "2607.24479v1",
+      "doi": "10.48550/arXiv.2607.24479",
+      "url": "https://arxiv.org/html/2607.24479v1",
+      "inspection": "Full-text relevant theorem, reduction and limitations sections"
+    },
+    {
+      "authors": "Fu, J., Gao, L., & Park, S.-J.",
+      "year": 2026,
+      "title": "A solution to 2-copy distillability of Werner states",
+      "arxiv": "2607.21367v2",
+      "doi": "10.48550/arXiv.2607.21367",
+      "url": "https://arxiv.org/html/2607.21367v2",
+      "inspection": "Full-text main result and version record"
+    },
+    {
+      "authors": "Wu, T., & Zou, Q.",
+      "year": 2026,
+      "title": "Sharp Plücker geometry for three-copy Werner distillation",
+      "arxiv": "2608.02647v1",
+      "doi": "10.48550/arXiv.2608.02647",
+      "url": "https://arxiv.org/html/2608.02647v1",
+      "inspection": "Full-text main theorems, nonnormal-sector conditions and residual obstruction"
+    },
+    {
+      "authors": "Vianna, R. O., & Doherty, A. C.",
+      "year": 2006,
+      "title": "Study of the distillability of Werner states using entanglement witnesses and robust semidefinite programs",
+      "doi": "10.1103/PhysRevA.74.052306",
+      "url": "https://arxiv.org/abs/quant-ph/0608095",
+      "inspection": "Abstract and bibliographic record only; no audit of its exactness claims"
+    },
+    {
+      "authors": "Research Excellence Framework",
+      "year": 2026,
+      "title": "Section 4 – Contributions to Knowledge and Understanding (CKU) guidance",
+      "url": "https://2029.ref.ac.uk/guidance/section-4-contributions-to-knowledge-and-understanding-cku-guidance/",
+      "inspection": "Current guidance page, last updated 22 January 2026"
+    },
+    {
+      "authors": "Research Excellence Framework",
+      "year": 2019,
+      "title": "Panel criteria and working methods (REF 2019/02)",
+      "url": "https://2021.ref.ac.uk/media/1450/ref-2019_02-panel-criteria-and-working-methods.pdf",
+      "inspection": "Main Panel B paragraph 202, printed pp. 36–37; PDF text and page images"
+    },
+    {
+      "authors": "Linux man-pages project",
+      "year": 2026,
+      "title": "getrusage(2), Linux man-pages 6.19",
+      "url": "https://man7.org/linux/man-pages/man2/getrusage.2.html",
+      "inspection": "ru_maxrss unit definition"
+    }
+  ]
+}

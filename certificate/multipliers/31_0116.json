@@ -1,0 +1,119 @@
+{
+  "schema": "portable-rational-PSD-multiplier-v1",
+  "id": "31_0116",
+  "kind": "source",
+  "modules": [
+    {
+      "case": 7,
+      "module": 0,
+      "d": 3,
+      "label": "f0_21",
+      "dim": 2
+    },
+    {
+      "case": 7,
+      "module": 2,
+      "d": 3,
+      "label": "f1_11",
+      "dim": 3
+    },
+    {
+      "case": 7,
+      "module": 2,
+      "d": 3,
+      "label": "f1_11",
+      "dim": 3
+    },
+    {
+      "case": 1,
+      "module": 0,
+      "d": 2,
+      "label": "f0_3",
+      "dim": 1
+    }
+  ],
+  "cut": [
+    3
+  ],
+  "N": [
+    [
+      "0"
+    ],
+    [
+      "0"
+    ],
+    [
+      "1/4"
+    ],
+    [
+      "0"
+    ],
+    [
+      "0"
+    ],
+    [
+      "0"
+    ],
+    [
+      "-1/4"
+    ],
+    [
+      "0"
+    ],
+    [
+      "0"
+    ],
+    [
+      "0"
+    ],
+    [
+      "-1/4"
+    ],
+    [
+      "0"
+    ],
+    [
+      "1/4"
+    ],
+    [
+      "0"
+    ],
+    [
+      "0"
+    ],
+    [
+      "0"
+    ],
+    [
+      "0"
+    ],
+    [
+      "0"
+    ]
+  ],
+  "Z": [
+    [
+      "38395017021/200000000000000000"
+    ]
+  ],
+  "N_shape": [
+    18,
+    1
+  ],
+  "Z_shape": [
+    1,
+    1
+  ],
+  "origin": {
+    "id": "31_0116",
+    "kind": "source",
+    "original_exact_sha256": "d5733c8cee2e986dca929c6872ee89b227cc91e578b41e1555f03488ff9466ae",
+    "original_source": "work/werner_source_exact_blocks/31_0116.exact.json",
+    "corrected": false,
+    "family": "31",
+    "original_source_blocks": [
+      116
+    ]
+  },
+  "family": "31"
+}

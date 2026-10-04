@@ -1,0 +1,38 @@
+{
+  "version": "1.1.0-candidate",
+  "creator": "Anonymous",
+  "status": "unrefereed-candidate",
+  "claims": [
+    {
+      "id": "endpoint",
+      "statement": "q3(C)>=0 for every complex 27x27 matrix of rank at most two",
+      "assumptions": [
+        "three local dimensions equal three",
+        "fixed computational partial-trace convention"
+      ],
+      "evidence": [
+        "paper.md Sections 1-6",
+        "certificate/"
+      ],
+      "kind": "computer-assisted theorem"
+    },
+    {
+      "id": "threshold",
+      "statement": "For -1<=alpha<=1, rho(3,alpha) is three-copy distillable iff alpha<-1/2",
+      "dependencies": [
+        "endpoint"
+      ],
+      "evidence": [
+        "paper.md Corollary 7"
+      ],
+      "kind": "written corollary"
+    }
+  ],
+  "excluded": [
+    "four or more copies",
+    "unrestricted higher local dimensions",
+    "all-copy NPT bound entanglement",
+    "exhaustive priority",
+    "authenticated external human peer review"
+  ]
+}

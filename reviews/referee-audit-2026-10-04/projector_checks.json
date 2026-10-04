@@ -1,0 +1,16 @@
+{
+  "status": "INDEPENDENT_LITERAL_PROJECTOR_EXPANSIONS_PASS",
+  "generators_checked": {
+    "31": 577,
+    "22": 1220,
+    "13": 577
+  },
+  "total": 2374,
+  "method": "Independent literal full group average, no use of projected_generator to construct expected values",
+  "includes": [
+    "Hermitian transpose of seed",
+    "both global bosonic projectors",
+    "all ordered physical-site permutations",
+    "orbit-average multiplicities"
+  ]
+}

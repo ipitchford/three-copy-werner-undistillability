@@ -1,0 +1,14 @@
+{
+  "normal_rank_two_zero": "0",
+  "nonnormal_rank_two_zero": "0",
+  "rank_three_negative": "-3/8",
+  "status": "EXACT_PHYSICAL_CONVENTION_TESTS_PASS",
+  "arithmetic": "Python arbitrary-precision Gaussian integers and fractions",
+  "seed": 20261004,
+  "arbitrary_complex_rank_at_most_two_cases": 24,
+  "direct_W_tensor_checks": 24,
+  "auxiliary_swap_partial_trace_checks": 192,
+  "literal_nonsymmetric_cross_map_checks": 240,
+  "detected_nonnormal_cases": 24,
+  "limitation": "Finite calibration tests; not a universal proof and not an independent coordinate-basis implementation"
+}

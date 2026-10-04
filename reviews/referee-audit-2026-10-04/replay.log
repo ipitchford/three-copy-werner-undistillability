@@ -1,0 +1,41 @@
+0.312 All hashes match 2181 727
+{"phase": "foundation_local", "modules": 44, "status": "PASS"}
+{"phase": "foundation_basis", "status": "PASS", "minors": {"31": {"size": 577, "prime": 1000003, "nonzero_determinant": 140866, "integer_column_denominator": 144}, "22": {"size": 1220, "prime": 1000003, "nonzero_determinant": 984923, "integer_column_denominator": 64}, "13": {"size": 577, "prime": 1000003, "nonzero_determinant": 140866, "integer_column_denominator": 144, "same_projector_as31": true}}}
+18.509 Foundation pass
+18.762 Blocks 1 / 716 exact PSD and full functionals pass
+20.93 Blocks 20 / 716 exact PSD and full functionals pass
+22.614 Blocks 40 / 716 exact PSD and full functionals pass
+23.557 Blocks 60 / 716 exact PSD and full functionals pass
+24.672 Blocks 80 / 716 exact PSD and full functionals pass
+26.703 Blocks 100 / 716 exact PSD and full functionals pass
+27.352 Blocks 120 / 716 exact PSD and full functionals pass
+28.487 Blocks 140 / 716 exact PSD and full functionals pass
+30.353 Blocks 160 / 716 exact PSD and full functionals pass
+31.93 Blocks 180 / 716 exact PSD and full functionals pass
+34.076 Blocks 200 / 716 exact PSD and full functionals pass
+36.139 Blocks 220 / 716 exact PSD and full functionals pass
+37.772 Blocks 240 / 716 exact PSD and full functionals pass
+38.777 Blocks 260 / 716 exact PSD and full functionals pass
+39.483 Blocks 280 / 716 exact PSD and full functionals pass
+41.311 Blocks 300 / 716 exact PSD and full functionals pass
+42.798 Blocks 320 / 716 exact PSD and full functionals pass
+43.514 Blocks 340 / 716 exact PSD and full functionals pass
+45.577 Blocks 360 / 716 exact PSD and full functionals pass
+48.558 Blocks 380 / 716 exact PSD and full functionals pass
+49.527 Blocks 400 / 716 exact PSD and full functionals pass
+49.825 Blocks 420 / 716 exact PSD and full functionals pass
+51.131 Blocks 440 / 716 exact PSD and full functionals pass
+52.988 Blocks 460 / 716 exact PSD and full functionals pass
+55.295 Blocks 480 / 716 exact PSD and full functionals pass
+57.159 Blocks 500 / 716 exact PSD and full functionals pass
+58.279 Blocks 520 / 716 exact PSD and full functionals pass
+59.542 Blocks 540 / 716 exact PSD and full functionals pass
+61.71 Blocks 560 / 716 exact PSD and full functionals pass
+62.424 Blocks 580 / 716 exact PSD and full functionals pass
+63.772 Blocks 600 / 716 exact PSD and full functionals pass
+65.773 Blocks 620 / 716 exact PSD and full functionals pass
+67.588 Blocks 640 / 716 exact PSD and full functionals pass
+69.524 Blocks 660 / 716 exact PSD and full functionals pass
+77.202 Blocks 680 / 716 exact PSD and full functionals pass
+94.16 Blocks 700 / 716 exact PSD and full functionals pass
+126.731 {'status': 'REVIEWER_ALTERNATIVE_EXACT_ARITHMETIC_PASS', 'all_hashes_match': True, 'foundation_recomputed': True, 'multipliers_recomputed': 716, 'strictly_positive_definite_small_Z': 716, 'source_multiplier_count': 652, 'coupled_multiplier_count': 64, 'functional_vectors_compared': 844, 'exact_global_equations': 2374, 'all_integer_residuals_zero': True, 'common_denominator_bits': 3873, 'elapsed_seconds': 126.73071585599996, 'basis_and_foundation_logic': 'Author definitions retained; not a fully independent second mathematical implementation', 'independent_backends': ['Prime-field determinant', 'Rational integer tensor contraction', 'PSD congruence and diagonal-dominance proof', 'Global rational summation'], 'native_author_FLINT_verifier_run': False, 'reason_native_not_run': 'python-flint unavailable; installation/network download unsuccessful', 'saved_author_receipts_trusted': False}

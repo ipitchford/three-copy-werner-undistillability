@@ -1,0 +1,6 @@
+Development host: macOS-27.0-arm64-arm-64bit-Mach-O
+Python: 3.13.5 (main, Jun 11 2025, 15:36:57) [Clang 17.0.0 (clang-1700.0.13.3)]
+Pinned verifier requirements: certificate/requirements.txt
+Primary supported platforms: Unix-like Linux and macOS; native Windows unsupported.
+One CPU, 2.5 GB reservation recommended. Standard BLAS/OMP threads should be one.
+No network access is needed for verification after dependencies are installed.

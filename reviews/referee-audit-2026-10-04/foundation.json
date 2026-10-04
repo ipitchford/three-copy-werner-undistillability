@@ -1,0 +1,746 @@
+{
+  "status": "PORTABLE_EXACT_FOUNDATION_PASS",
+  "input_sha256": {
+    "exact_coordinates.py": "7c90f973d1a29d443dc1ff6f4a1e5a9218247e7bb0f0f662b9838dff1316655f",
+    "data/local_modules.json": "db9b84c0001f3ac0abca439a97c40b7b2064a7b3a2fed71a4d2f76937cca085a",
+    "data/basis_data.npz": "c47f5f817fa07cd3fe422b6869976f8f00326aa9e134bca764ffecc080e55794"
+  },
+  "source_sha256": "1772478e4e644c783a3d22d2c4b37d080bc0a4d1b54098cc13bc9264fdb0aaab",
+  "local": {
+    "status": "EXACT_LOCAL_EMBEDDINGS_AND_METRICS_PASS",
+    "modules": 44,
+    "cases": 12,
+    "reports": [
+      {
+        "d": 2,
+        "cut": [],
+        "label": "22",
+        "dimension": 2,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/4",
+          "3/64"
+        ]
+      },
+      {
+        "d": 2,
+        "cut": [],
+        "label": "31",
+        "dimension": 3,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/2",
+          "3/16",
+          "1/16"
+        ]
+      },
+      {
+        "d": 2,
+        "cut": [],
+        "label": "4",
+        "dimension": 1,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1"
+        ]
+      },
+      {
+        "d": 2,
+        "cut": [
+          3
+        ],
+        "label": "f0_3",
+        "dimension": 1,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/4"
+        ]
+      },
+      {
+        "d": 2,
+        "cut": [
+          3
+        ],
+        "label": "f1_11_quotient",
+        "dimension": 2,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/4",
+          "3/64"
+        ]
+      },
+      {
+        "d": 2,
+        "cut": [
+          3
+        ],
+        "label": "f1_2",
+        "dimension": 3,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/4",
+          "3/64",
+          "1/128"
+        ]
+      },
+      {
+        "d": 2,
+        "cut": [
+          0
+        ],
+        "label": "f0_3",
+        "dimension": 1,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/4"
+        ]
+      },
+      {
+        "d": 2,
+        "cut": [
+          0
+        ],
+        "label": "f1_11_quotient",
+        "dimension": 2,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/4",
+          "3/64"
+        ]
+      },
+      {
+        "d": 2,
+        "cut": [
+          0
+        ],
+        "label": "f1_2",
+        "dimension": 3,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/2",
+          "3/16",
+          "1/16"
+        ]
+      },
+      {
+        "d": 2,
+        "cut": [
+          0,
+          1
+        ],
+        "label": "f0_2_2",
+        "dimension": 1,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/6"
+        ]
+      },
+      {
+        "d": 2,
+        "cut": [
+          0,
+          1
+        ],
+        "label": "f1_1_1_quotient",
+        "dimension": 3,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/2",
+          "3/16",
+          "1/16"
+        ]
+      },
+      {
+        "d": 2,
+        "cut": [
+          0,
+          1
+        ],
+        "label": "f2_empty",
+        "dimension": 2,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/4",
+          "3/64"
+        ]
+      },
+      {
+        "d": 2,
+        "cut": [
+          2
+        ],
+        "label": "f0_3",
+        "dimension": 1,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/4"
+        ]
+      },
+      {
+        "d": 2,
+        "cut": [
+          2
+        ],
+        "label": "f1_11_quotient",
+        "dimension": 2,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/4",
+          "3/64"
+        ]
+      },
+      {
+        "d": 2,
+        "cut": [
+          2
+        ],
+        "label": "f1_2",
+        "dimension": 3,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/4",
+          "3/64",
+          "1/128"
+        ]
+      },
+      {
+        "d": 2,
+        "cut": [
+          0,
+          2
+        ],
+        "label": "f0_2_2",
+        "dimension": 1,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/6"
+        ]
+      },
+      {
+        "d": 2,
+        "cut": [
+          0,
+          2
+        ],
+        "label": "f1_1_1_quotient",
+        "dimension": 3,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/4",
+          "3/64",
+          "1/128"
+        ]
+      },
+      {
+        "d": 2,
+        "cut": [
+          0,
+          2
+        ],
+        "label": "f2_empty",
+        "dimension": 2,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/4",
+          "3/64"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [],
+        "label": "211",
+        "dimension": 3,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/6",
+          "2/81",
+          "2/729"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [],
+        "label": "22",
+        "dimension": 2,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/4",
+          "3/64"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [],
+        "label": "31",
+        "dimension": 3,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/2",
+          "3/16",
+          "1/16"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [],
+        "label": "4",
+        "dimension": 1,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          3
+        ],
+        "label": "f0_21",
+        "dimension": 2,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "3/16",
+          "27/1024"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          3
+        ],
+        "label": "f0_3",
+        "dimension": 1,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "2/5"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          3
+        ],
+        "label": "f1_11",
+        "dimension": 3,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/6",
+          "2/81",
+          "2/729"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          3
+        ],
+        "label": "f1_2",
+        "dimension": 3,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/8",
+          "3/256",
+          "5/2048"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          0
+        ],
+        "label": "f0_21",
+        "dimension": 2,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "3/16",
+          "27/1024"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          0
+        ],
+        "label": "f0_3",
+        "dimension": 1,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "2/5"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          0
+        ],
+        "label": "f1_11",
+        "dimension": 3,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/6",
+          "2/81",
+          "2/729"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          0
+        ],
+        "label": "f1_2",
+        "dimension": 3,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/3",
+          "8/81",
+          "20/729"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          0,
+          1
+        ],
+        "label": "f0_11_2",
+        "dimension": 1,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/6"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          0,
+          1
+        ],
+        "label": "f0_2_11",
+        "dimension": 1,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/6"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          0,
+          1
+        ],
+        "label": "f0_2_2",
+        "dimension": 1,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "3/10"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          0,
+          1
+        ],
+        "label": "f1_1_1",
+        "dimension": 4,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/4",
+          "3/64",
+          "3/128",
+          "45/4096"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          0,
+          1
+        ],
+        "label": "f2_empty",
+        "dimension": 2,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/12",
+          "1/72"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          2
+        ],
+        "label": "f0_21",
+        "dimension": 2,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "3/16",
+          "27/1024"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          2
+        ],
+        "label": "f0_3",
+        "dimension": 1,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "2/5"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          2
+        ],
+        "label": "f1_11",
+        "dimension": 3,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/8",
+          "1/32",
+          "1/128"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          2
+        ],
+        "label": "f1_2",
+        "dimension": 3,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/8",
+          "1/32",
+          "5/512"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          0,
+          2
+        ],
+        "label": "f0_11_2",
+        "dimension": 1,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/6"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          0,
+          2
+        ],
+        "label": "f0_2_11",
+        "dimension": 1,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/6"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          0,
+          2
+        ],
+        "label": "f0_2_2",
+        "dimension": 1,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "3/10"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          0,
+          2
+        ],
+        "label": "f1_1_1",
+        "dimension": 4,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "2/9",
+          "32/729",
+          "56/6561",
+          "80/59049"
+        ]
+      },
+      {
+        "d": 3,
+        "cut": [
+          0,
+          2
+        ],
+        "label": "f2_empty",
+        "dimension": 2,
+        "embedding_relations": 24,
+        "metric_adjoint_relations": 24,
+        "positive_leading_minors": [
+          "1/9",
+          "8/729"
+        ]
+      }
+    ],
+    "completeness_claim": "No irreducible multiplicity completeness is used; each module is a genuine invariant compression."
+  },
+  "joint_diagram_maps": {
+    "status": "EXACT_LITERAL_JOINT_DIAGRAM_MAPS_PASS",
+    "tau": [
+      0,
+      1,
+      3,
+      2
+    ],
+    "p0": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "reports": [
+      {
+        "d": 2,
+        "diagonal_relations": 24,
+        "cross_relations": 24,
+        "direct_cross_index_relations": 24
+      },
+      {
+        "d": 3,
+        "diagonal_relations": 24,
+        "cross_relations": 24,
+        "direct_cross_index_relations": 24
+      }
+    ]
+  },
+  "gaussian_joint_gram": {
+    "status": "EXACT_GAUSSIAN_INTEGER_JOINT_GRAM_PASS",
+    "order": 32,
+    "a": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        -1
+      ]
+    ],
+    "b": [
+      [
+        2,
+        3
+      ],
+      [
+        -1,
+        2
+      ]
+    ],
+    "arithmetic": "Pairs of Python integers",
+    "scope": "A finite calibration of the tensor formula; the general formula is established algebraically in the proof."
+  },
+  "exact_projector_dimensions": {
+    "31": {
+      "exact_dimension": 577,
+      "sandwich_trace_sum": "33264",
+      "transpose_sandwich_trace_sum": "8280",
+      "projector_denominator": 72
+    },
+    "22": {
+      "exact_dimension": 1220,
+      "sandwich_trace_sum": "33504",
+      "transpose_sandwich_trace_sum": "5536",
+      "projector_denominator": 32
+    },
+    "13": {
+      "exact_dimension": 577,
+      "sandwich_trace_sum": "33264",
+      "transpose_sandwich_trace_sum": "8280",
+      "projector_denominator": 72
+    }
+  },
+  "basis_minors": {
+    "31": {
+      "size": 577,
+      "prime": 1000003,
+      "nonzero_determinant": 140866,
+      "integer_column_denominator": 144
+    },
+    "22": {
+      "size": 1220,
+      "prime": 1000003,
+      "nonzero_determinant": 984923,
+      "integer_column_denominator": 64
+    },
+    "13": {
+      "size": 577,
+      "prime": 1000003,
+      "nonzero_determinant": 140866,
+      "integer_column_denominator": 144,
+      "same_projector_as31": true
+    }
+  },
+  "objective_and_equalities": {
+    "status": "EXACT_OBJECTIVE_AND_SELECTED_EQUALITIES_PASS",
+    "columns": 2374,
+    "equality_rows": 272,
+    "raw_equality_rows": 2912,
+    "objective_normalization": "X=54^4 Y; objective includes 1/(8*54^4)",
+    "equality_rank_claim": "No equality rank or completeness assertion is needed: all selected rows are verified valid homogeneous constraints."
+  },
+  "elapsed_seconds": 18.197151208000037,
+  "peak_rss_bytes": 222888,
+  "global_certificate_identity_checked": false,
+  "multiplier_PSD_checked": false,
+  "reviewer_backend": "Author foundation/coordinate logic with independent numpy integer prime-field determinant; SymPy exact rationals; no FLINT."
+}

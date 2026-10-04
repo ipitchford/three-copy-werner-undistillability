@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Cite this candidate version and preserve its assurance scope."
+title: "Three-copy undistillability of the boundary qutrit Werner state"
+authors:
+  - name: Anonymous
+version: 1.1.0-candidate
+date-released: 2026-10-04
+doi: 10.5281/zenodo.23134454
+repository-code: https://github.com/ipitchford/three-copy-werner-undistillability
+license: CC0-1.0
+type: article

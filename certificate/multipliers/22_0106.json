@@ -1,0 +1,101 @@
+{
+  "schema": "portable-rational-PSD-multiplier-v1",
+  "id": "22_0106",
+  "kind": "source",
+  "modules": [
+    {
+      "case": 8,
+      "module": 0,
+      "d": 3,
+      "label": "f0_21",
+      "dim": 2
+    },
+    {
+      "case": 8,
+      "module": 0,
+      "d": 3,
+      "label": "f0_21",
+      "dim": 2
+    },
+    {
+      "case": 8,
+      "module": 2,
+      "d": 3,
+      "label": "f1_11",
+      "dim": 3
+    },
+    {
+      "case": 2,
+      "module": 0,
+      "d": 2,
+      "label": "f0_3",
+      "dim": 1
+    }
+  ],
+  "cut": [
+    0
+  ],
+  "N": [
+    [
+      "0"
+    ],
+    [
+      "0"
+    ],
+    [
+      "0"
+    ],
+    [
+      "-1/4"
+    ],
+    [
+      "1/4"
+    ],
+    [
+      "-1/4"
+    ],
+    [
+      "1/4"
+    ],
+    [
+      "-1/4"
+    ],
+    [
+      "1/4"
+    ],
+    [
+      "0"
+    ],
+    [
+      "0"
+    ],
+    [
+      "0"
+    ]
+  ],
+  "Z": [
+    [
+      "146886178549/500000000000000000"
+    ]
+  ],
+  "N_shape": [
+    12,
+    1
+  ],
+  "Z_shape": [
+    1,
+    1
+  ],
+  "origin": {
+    "id": "22_0106",
+    "kind": "source",
+    "original_exact_sha256": "031c8a4a017dedb954d3f11992a6d42ddf4aa249739f6c47a42a0098efaeacd3",
+    "original_source": "work/werner_source_exact_blocks/22_0106.exact.json",
+    "corrected": false,
+    "family": "22",
+    "original_source_blocks": [
+      106
+    ]
+  },
+  "family": "22"
+}

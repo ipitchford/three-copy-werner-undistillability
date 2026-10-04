@@ -1,0 +1,28 @@
+{
+  "title": "Three-copy undistillability of the boundary qutrit Werner state",
+  "creators": [
+    {
+      "name": "Anonymous"
+    }
+  ],
+  "version": "1.1.0-candidate",
+  "publication_date": "2026-10-04",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "license": "cc-zero",
+  "access_right": "open",
+  "description": "Candidate computer-assisted proof of the unrestricted three-copy qutrit Werner endpoint and its full physical-parameter threshold, with exact rational data and a portable verifier. Supplied alternative-arithmetic audit has bounded implementation-diversity scope. Not journal peer review, exhaustive priority certification or an all-copy result. Original code is MIT; supplied review material retains its original terms.",
+  "keywords": [
+    "Werner states",
+    "three-copy undistillability",
+    "rational certificate",
+    "quantum information"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ipitchford/three-copy-werner-undistillability",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

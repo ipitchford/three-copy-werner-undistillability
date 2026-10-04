@@ -1,0 +1,87 @@
+{
+  "schema": "portable-rational-PSD-multiplier-v1",
+  "id": "22_0484",
+  "kind": "source",
+  "modules": [
+    {
+      "case": 11,
+      "module": 1,
+      "d": 3,
+      "label": "f0_2_11",
+      "dim": 1
+    },
+    {
+      "case": 11,
+      "module": 4,
+      "d": 3,
+      "label": "f2_empty",
+      "dim": 2
+    },
+    {
+      "case": 11,
+      "module": 4,
+      "d": 3,
+      "label": "f2_empty",
+      "dim": 2
+    },
+    {
+      "case": 5,
+      "module": 0,
+      "d": 2,
+      "label": "f0_2_2",
+      "dim": 1
+    }
+  ],
+  "cut": [
+    0,
+    2
+  ],
+  "N": [
+    [
+      "1",
+      "0"
+    ],
+    [
+      "0",
+      "-1"
+    ],
+    [
+      "0",
+      "-1"
+    ],
+    [
+      "0",
+      "1"
+    ]
+  ],
+  "Z": [
+    [
+      "6165746659/40000000000000000",
+      "20582586809/500000000000000000"
+    ],
+    [
+      "20582586809/500000000000000000",
+      "10143213527/125000000000000000"
+    ]
+  ],
+  "N_shape": [
+    4,
+    2
+  ],
+  "Z_shape": [
+    2,
+    2
+  ],
+  "origin": {
+    "id": "22_0484",
+    "kind": "source",
+    "original_exact_sha256": "fe79a2d50c9987e42fd52246f953e4ee49d3c3188eb3b9ff5ae297821da26c7e",
+    "original_source": "work/werner_source_exact_blocks/22_0484.exact.json",
+    "corrected": false,
+    "family": "22",
+    "original_source_blocks": [
+      489
+    ]
+  },
+  "family": "22"
+}

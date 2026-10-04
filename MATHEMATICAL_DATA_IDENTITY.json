@@ -1,0 +1,18 @@
+{
+  "status": "ALL_MATHEMATICAL_DATA_BYTE_IDENTICAL",
+  "files_checked": 719,
+  "original_certificate_manifest_sha256": "229d7bc79bf3c2f77ff6e36705f9b80008ec9718333ffc8b4e9b5bd463b991a3",
+  "revised_certificate_manifest_sha256": "311a37916004189a4cec2ba52e988ec23f75fa67e79909b057e0d7f533bc3163",
+  "changed_code_scope": "Resource reporting and retention of existing exact consistency checks under optimized Python; no mathematical inputs or formulas changed.",
+  "mathematical_inputs_changed": false,
+  "optimized_mode_hardening": [
+    {
+      "file": "exact_coordinates.py",
+      "assertions_retained_in_optimized_mode": 6
+    },
+    {
+      "file": "basis_values.py",
+      "assertions_retained_in_optimized_mode": 1
+    }
+  ]
+}
